@@ -1,0 +1,255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"graa",
+				"gravatar_url"
+			],
+			[
+				"gra",
+				"gravatar_id"
+			],
+			[
+				"have",
+				"have_title"
+			],
+			[
+				"Use",
+				"user"
+			],
+			[
+				"resoruce",
+				"resources"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"color +' 0'  *8",
+			"color *8",
+			"color*8",
+			"color",
+			"color = \"blue\"",
+			"6 + 7",
+			"cd ..",
+			"cd ",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/tmp/subl stdin VTCXht.txt",
+		"/tmp/subl stdin yY1eh0.txt",
+		"/Users/bardya/Projects/rails_projects/sample_app/tmp/cache/assets/production/sass/eef10f006a4a48a4e3d069a40a96a15eec00a683/bootstrap-responsive.scssc",
+		"/Users/bardya/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bardya/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/bardya/Projects/rails_projects/sample_app/app/views/users/show.html.erb",
+		"/Users/bardya/Projects/rails_projects/sample_app/app/helpers/users_helper.rb",
+		"/Users/bardya/Projects/rails_projects/sample_app/config/environments/production.rb",
+		"/Users/bardya/Projects/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/Users/bardya/Projects/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/Users/bardya/Projects/rails_projects/sample_app/app/views/shared/_error_messages.html.erb",
+		"/Users/bardya/Projects/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/Users/bardya/Projects/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/bardya/Projects/rails_projects/sample_app/spec/requests/user_pages_spec.rb",
+		"/Users/bardya/Projects/rails_projects/sample_app/config/routes.rb",
+		"/Users/bardya/Projects/rails_projects/sample_app/spec/factories.rb",
+		"/Users/bardya/Projects/rails_projects/sample_app/app/models/user.rb",
+		"/Users/bardya/Projects/rails_projects/sample_app/config/environments/test.rb",
+		"/Users/bardya/Projects/rails_projects/sample_app/Gemfile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scrol",
+			"color",
+			"cons",
+			"cost",
+			"head"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "SampleApp.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"user_",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"prod",
+				"config/environments/production.rb"
+			],
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"user_pa",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"application.h",
+				"app/views/layouts/application.html.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
